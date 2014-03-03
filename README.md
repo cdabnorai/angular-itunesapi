@@ -12,6 +12,7 @@ Angular JS UI communicating with a Java RESTful Server to perform RESTful reques
 - Grunt
 
 -- UI --
+
 The following commands must be run from within the ui folder to build the UI with the required dependencies:
 npm install
 bower install
