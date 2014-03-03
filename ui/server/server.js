@@ -5,9 +5,6 @@ var app = express();
 
 app.post('/api_itunes/rest/api/itunes/search', function(req, res){
 
- console.log(req.params);
- console.log(req.body);
-
  res.json(
     {
      "resultCount":50,
